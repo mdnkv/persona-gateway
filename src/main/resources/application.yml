@@ -1,6 +1,5 @@
 spring:
   application:
     name: persona-gateway
-
 server:
   port: 8000
